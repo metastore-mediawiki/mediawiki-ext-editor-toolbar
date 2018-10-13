@@ -22,6 +22,9 @@ function extJS_toolbarGroups() {
 				},
 				'float': {
 					'label': 'Float'
+				},
+				'format': {
+					'label': 'Format'
 				}
 			}
 		});
