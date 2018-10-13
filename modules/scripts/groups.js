@@ -7,6 +7,21 @@ function extJS_toolbarGroups() {
 			'groups': {
 				'general': {
 					'label': 'General'
+				},
+				'code': {
+					'label': 'Code'
+				},
+				'note': {
+					'label': 'Note'
+				},
+				'spoiler': {
+					'label': 'Spoiler'
+				},
+				'align': {
+					'label': 'Align'
+				},
+				'float': {
+					'label': 'Float'
 				}
 			}
 		});
